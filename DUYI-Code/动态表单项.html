@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>React Demo with Ant Design</title>
+  <!-- 引入 Ant Design 样式 -->
+  <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/antd/4.16.13/antd.min.css" />
+</head>
+
+<body>
+  <div id="root"></div>
+
+  <!-- 引入 React 及其依赖 -->
+  <script src="https://cdn.jsdelivr.net/npm/react@17.0.1/umd/react.development.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/react-dom@17.0.1/umd/react-dom.development.js"></script>
+  <!-- 引入 Babel 转换器 -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.23/browser.min.js"></script>
+  <!-- 引入 Ant Design 组件库 -->
+  <script src="https://cdn.bootcdn.net/ajax/libs/antd/4.16.13/antd.min.js"></script>
+
+  <script type="text/babel">
+    // 在这里写 React 组件代码
+    const { Button } = antd;
+
+    // 一个表单项
+    const FromItem = {
+      type: 'input',// input select checkbox radio ...
+      payload: 'any',// 表示表单项所关联的数据 （比如文本框的文本，下拉列表的选项
+      // current 表示当前的表单项  acients当前表单项的上一个表单项是什么
+      next: (current = FromItem, acients = []) => FromItem || null,// 这个函数的返回结果是下一个表单项或者是null
+      parent: FromItem || null // 表示当前表单项的上一项
+    }
+
+
+
+
+
+    const App = () => {
+      return (
+        <div>
+          <h1>Hello, World!</h1>
+          <Button type="primary">Click Me</Button>
+        </div>
+      );
+    };
+
+
+
+    // 渲染 React 组件到页面上
+    ReactDOM.render(<App />, document.getElementById('root'));
+  </script>
+</body>
+
+</html>
