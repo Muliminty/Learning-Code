@@ -1,0 +1,74 @@
+{
+	// Place your study 工作区 snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	"js": {
+		"scope": "markdown",
+		"prefix": "js",
+		"body": [
+			"```javascript",
+			"",
+			"```"
+		],
+		"description": "js代码块"
+	},
+	"ts": {
+		"scope": "markdown",
+		"prefix": "ts",
+		"body": [
+			"```typeScript",
+			"",
+			"```"
+		],
+		"description": "js代码块"
+	},
+	"jsx": {
+		"scope": "markdown",
+		"prefix": "jsx",
+		"body": [
+			"```JSX",
+			"",
+			"```"
+		],
+		"description": "js代码块"
+	},
+	"ml": {
+		"scope": "markdown",
+		"prefix": "toc",
+		"body": [
+			"[TOC]",
+		],
+		"description": "目录"
+	},
+	"ly": {
+		"scope": "markdown",
+		"prefix": "link",
+		"body": [
+			"[来源 -- 文章名 -- 作者](url)",
+		],
+		"description": "参考来源"
+	},
+	"img": {
+		"scope": "markdown",
+		"prefix": "img",
+		"body": [
+			"![这是图片](xxx.jpg '鼠标悬浮文案')",
+		],
+		"description": "图片"
+	},
+	"table": {
+		"scope": "markdown",
+		"prefix": "table",
+		"body": [
+			"|  |  |",
+			"|--|--|",
+			"|  |  |",
+			"|  |  |",
+		],
+		"description": "图片"
+	},
+}

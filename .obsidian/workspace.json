@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "a5ee6cc28a84e573",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfddf9105d4c443c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f15bf2d717f09fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node-Code/HTTP协议相关内容/document/2023年12月6日-4-HTTP 响应报文.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c59e950a99f662b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node-Code/README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e763b896eb5105de",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab69140583894038",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5f9d18702c6bf89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ecad09b246738b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#每日一题",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "8e6faee164f44a88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "968dfc3383342fa6",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 468.5
+  },
+  "right": {
+    "id": "7e1eaf5aa558b397",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ee6c0f648cd6fb3",
+        "type": "tabs",
+        "dimension": 32.285714285714285,
+        "children": [
+          {
+            "id": "44df5cfe22cb7b21",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Node-Code/README.md"
+              }
+            }
+          },
+          {
+            "id": "0091c11f0415cf81",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd4c1548a878c7f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Node-Code/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bed8f94c56327ab1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Node-Code/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47a53db78ef7e409",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "366e0e71d35865b6",
+        "type": "tabs",
+        "dimension": 67.71428571428572,
+        "children": [
+          {
+            "id": "8b3983fc61f6ffa6",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "http://yuindex.yupi.icu/#/"
+              }
+            }
+          },
+          {
+            "id": "fa9d31c059ecf26d",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://go.itab.link/"
+              }
+            }
+          },
+          {
+            "id": "43b6593cf335e777",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.dida365.com/#q/all/tasks"
+              }
+            }
+          },
+          {
+            "id": "ae088fc3cf22ae65",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://flowus.cn/fdbedd2a-7ae5-41f4-9448-669670ff0521"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 385.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "graph:查看关系图谱": false,
+      "workspaces:管理工作区布局": false,
+      "random-note:开始漫游笔记": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-weread-plugin:Weread": false,
+      "smart-random-note:Open Random Note from Search": false
+    }
+  },
+  "active": "b5f9d18702c6bf89",
+  "lastOpenFiles": [
+    "README.md",
+    "Node-Code/HTTP协议相关内容/document/2023年12月6日-0-HTTP请求报文的结构与组成.md",
+    "Node-Code/HTTP协议相关内容/document/2023年12月6日-1-URL（统一资源定位符）详解.md",
+    "Node-Code/HTTP协议相关内容/document/2023年12月6日-2-HTTP 请求头详解.md",
+    "Node-Code/HTTP协议相关内容/document/2023年12月6日-3-HTTP 请求体详解.md",
+    "Node-Code/HTTP协议相关内容/document/2023年12月6日-4-HTTP 响应报文.md",
+    "Node-Code/HTTP协议相关内容/document/2023年12月6日-5-响应头和响应体.md",
+    "未命名.md",
+    "Node-Code/README.md",
+    "Node-Code/HTTP协议相关内容/document/附件/2023年12月6日-4-HTTP 响应报文.png",
+    "Node-Code/HTTP协议相关内容/document/附件",
+    "Node-Code/HTTP协议相关内容/document/附件/2023年12月6日-4-HTTP 响应报文.png",
+    "归档/08--每日一个知识点/2023年8月2日 -- this.md",
+    "Node-Code/HTTP协议相关内容/document/2023年12月6日-3-HTTP 请求体详解 copy.md",
+    "Node-Code/HTTP协议相关内容/document/2023年12月6日-3-HTTP请求体详解.md",
+    "Node-Code/HTTP协议相关内容/document/2023年12月6日-3-",
+    "Document/知识体系/README.md",
+    "document/知识体系/README.md",
+    "document/知识体系",
+    "document",
+    "Node-Code/HTTP协议相关内容/document",
+    "Node-Code/FS模块相关内容/document/2023年12月5日--0-Node.js中的Path模块常用方法详解.md",
+    "Node-Code/FS模块相关内容/document/2023年12月4日--1-__dirname.md",
+    "Node-Code/FS模块相关内容/document/2023年12月4日--0-文件夹操作.md",
+    "Node-Code/FS模块相关内容/document/2023年11月30--1-文件读取.md",
+    "Node-Code/FS模块相关内容/document/2023年11月30--0-文件写入.md",
+    "Node-Code/FS模块相关内容/document/2023年11月28日--0-node fs模块详细介绍.md",
+    "Node-Code/FS模块相关内容/document/2023年11月27日--2-Buffer操作与注意点.md",
+    "Node-Code/FS模块相关内容/document/2023年11月27日--1-Buffer的创建与介绍.md",
+    "Node-Code/FS模块相关内容/document/2023年11月27日--0-CMD常用命令.md",
+    "Node-Code/FS模块相关内容/document",
+    "Node-Code/FS模块相关内容/code/追加写入.txt",
+    "Node-Code/FS模块相关内容/code/文件写入.txt",
+    "Node-Code/FS模块相关内容/code/文件读取.txt",
+    "Node-Code/FS模块相关内容/code/流式写入.txt",
+    "Node-Code/HTTP协议相关内容/Doc/2023年12月6日-1-URL（统一资源定位符）详解.md",
+    "Node-Code/HTTP协议相关内容/Doc/2023年12月6日-0-HTTP请求报文的结构与组成.md",
+    "Node-Code/FS模块相关内容/Doc/2023年12月5日--0-Node.js中的Path模块常用方法详解.md",
+    "归档/附件/知识分享-2.png",
+    "归档/附件/知识分享-1.jpg",
+    "归档/附件/知识分享.png",
+    "300--前端相关/02--开发技巧/框架&库/ProComponents/附件/ProTable.png",
+    "300--前端相关/02--开发技巧/JavaScript/下载相关/附件/下载二进制文件.png",
+    "200--计算机基础/计算机网络/计算机网络知识碎片/附件/Pasted image 20231018151131.png",
+    "300--前端相关/08--每日一个知识点/附件/2023年8月23日 -- MVC和MVVM的概念-4.png",
+    "300--前端相关/08--每日一个知识点/附件/2023年8月23日 -- MVC和MVVM的概念-1.png",
+    "999--Test/未命名.canvas",
+    "Obsidian白板.canvas",
+    "未命名.canvas"
+  ]
+}
