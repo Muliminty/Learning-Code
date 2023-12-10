@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node-Code/README.md",
+                "file": "Node-Code/HTTP协议相关内容/document/2023年12月10日--0-IP相关知识点大纲.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node-Code/HTTP协议相关内容/document/2023年12月6日-4-HTTP 响应报文.md"
+                "file": "Node-Code/HTTP协议相关内容/document/2023年12月10日--0-IP相关知识点大纲.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node-Code/HTTP协议相关内容/document/2023年12月6日-4-HTTP 响应报文.md",
+                "file": "Node-Code/HTTP协议相关内容/document/2023年12月10日--0-IP相关知识点大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node-Code/HTTP协议相关内容/document/2023年12月6日-4-HTTP 响应报文.md",
+                "file": "Node-Code/HTTP协议相关内容/document/2023年12月10日--0-IP相关知识点大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,14 +230,15 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "b5f9d18702c6bf89",
+  "active": "c59e950a99f662b9",
   "lastOpenFiles": [
+    "Node-Code/HTTP协议相关内容/document/2023年12月6日-4-HTTP 响应报文.md",
+    "Node-Code/HTTP协议相关内容/document/2023年12月10日--0-IP相关知识点大纲.md",
     "README.md",
     "Node-Code/HTTP协议相关内容/document/2023年12月6日-0-HTTP请求报文的结构与组成.md",
     "Node-Code/HTTP协议相关内容/document/2023年12月6日-1-URL（统一资源定位符）详解.md",
     "Node-Code/HTTP协议相关内容/document/2023年12月6日-2-HTTP 请求头详解.md",
     "Node-Code/HTTP协议相关内容/document/2023年12月6日-3-HTTP 请求体详解.md",
-    "Node-Code/HTTP协议相关内容/document/2023年12月6日-4-HTTP 响应报文.md",
     "Node-Code/HTTP协议相关内容/document/2023年12月6日-5-响应头和响应体.md",
     "未命名.md",
     "Node-Code/README.md",
@@ -269,7 +270,6 @@
     "Node-Code/FS模块相关内容/code/流式写入.txt",
     "Node-Code/HTTP协议相关内容/Doc/2023年12月6日-1-URL（统一资源定位符）详解.md",
     "Node-Code/HTTP协议相关内容/Doc/2023年12月6日-0-HTTP请求报文的结构与组成.md",
-    "Node-Code/FS模块相关内容/Doc/2023年12月5日--0-Node.js中的Path模块常用方法详解.md",
     "归档/附件/知识分享-2.png",
     "归档/附件/知识分享-1.jpg",
     "归档/附件/知识分享.png",
