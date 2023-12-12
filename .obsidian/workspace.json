@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bfddf9105d4c443c",
+        "id": "edefcd52b55b8df0",
         "type": "tabs",
         "children": [
           {
-            "id": "f15bf2d717f09fef",
+            "id": "8f05d17249e962d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "surfing-view",
               "state": {
-                "file": "Node-Code/HTTP协议相关内容/document/2023年12月6日-4-HTTP 响应报文.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c59e950a99f662b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node-Code/HTTP协议相关内容/document/2023年12月10日--0-IP相关知识点大纲.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "url": "file:///C:\\AA-学习盘\\Project\\Learning-Code/Node-Code/HTTP协议相关内容/code/login.html"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 468.5
+    "width": 381.50271224975586
   },
   "right": {
     "id": "7e1eaf5aa558b397",
@@ -111,9 +94,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Node-Code/HTTP协议相关内容/document/2023年12月10日--0-IP相关知识点大纲.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node-Code/HTTP协议相关内容/document/2023年12月10日--0-IP相关知识点大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node-Code/HTTP协议相关内容/document/2023年12月10日--0-IP相关知识点大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,10 +209,20 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "c59e950a99f662b9",
+  "active": "8f05d17249e962d7",
   "lastOpenFiles": [
+    "Node-Code/HTTP协议相关内容/document/2023年12月12日--0-获取请求行和请求头.md",
+    "Node-Code/HTTP协议相关内容/code/register.html",
+    "Node-Code/HTTP协议相关内容/code/login copy.html",
+    "Node-Code/HTTP协议相关内容/code/login.html",
+    "Node-Code/HTTP协议相关内容/code/2023年12月12日-0-http请求练习.js",
+    "document/知识体系/README.md",
+    "DUYI-Code/EREADME.md",
+    "Node-Code/HTTP协议相关内容/document/2023年12月11日--0-如何关闭HTTP端口.md",
     "Node-Code/HTTP协议相关内容/document/2023年12月6日-4-HTTP 响应报文.md",
     "Node-Code/HTTP协议相关内容/document/2023年12月10日--0-IP相关知识点大纲.md",
+    "Node-Code/HTTP协议相关内容/code/关闭端口.js",
+    "Node-Code/HTTP协议相关内容/code/关闭端口",
     "README.md",
     "Node-Code/HTTP协议相关内容/document/2023年12月6日-0-HTTP请求报文的结构与组成.md",
     "Node-Code/HTTP协议相关内容/document/2023年12月6日-1-URL（统一资源定位符）详解.md",
@@ -250,10 +239,8 @@
     "Node-Code/HTTP协议相关内容/document/2023年12月6日-3-HTTP请求体详解.md",
     "Node-Code/HTTP协议相关内容/document/2023年12月6日-3-",
     "Document/知识体系/README.md",
-    "document/知识体系/README.md",
     "document/知识体系",
     "document",
-    "Node-Code/HTTP协议相关内容/document",
     "Node-Code/FS模块相关内容/document/2023年12月5日--0-Node.js中的Path模块常用方法详解.md",
     "Node-Code/FS模块相关内容/document/2023年12月4日--1-__dirname.md",
     "Node-Code/FS模块相关内容/document/2023年12月4日--0-文件夹操作.md",
@@ -261,15 +248,6 @@
     "Node-Code/FS模块相关内容/document/2023年11月30--0-文件写入.md",
     "Node-Code/FS模块相关内容/document/2023年11月28日--0-node fs模块详细介绍.md",
     "Node-Code/FS模块相关内容/document/2023年11月27日--2-Buffer操作与注意点.md",
-    "Node-Code/FS模块相关内容/document/2023年11月27日--1-Buffer的创建与介绍.md",
-    "Node-Code/FS模块相关内容/document/2023年11月27日--0-CMD常用命令.md",
-    "Node-Code/FS模块相关内容/document",
-    "Node-Code/FS模块相关内容/code/追加写入.txt",
-    "Node-Code/FS模块相关内容/code/文件写入.txt",
-    "Node-Code/FS模块相关内容/code/文件读取.txt",
-    "Node-Code/FS模块相关内容/code/流式写入.txt",
-    "Node-Code/HTTP协议相关内容/Doc/2023年12月6日-1-URL（统一资源定位符）详解.md",
-    "Node-Code/HTTP协议相关内容/Doc/2023年12月6日-0-HTTP请求报文的结构与组成.md",
     "归档/附件/知识分享-2.png",
     "归档/附件/知识分享-1.jpg",
     "归档/附件/知识分享.png",

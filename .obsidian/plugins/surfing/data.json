@@ -181,6 +181,72 @@
         "fileSize": "",
         "icon": {}
       }
+    },
+    {
+      "id": "8a547497d62ec032",
+      "parent": 0,
+      "droppable": true,
+      "text": "New Tab",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "00d69d257f1f137c",
+      "parent": 0,
+      "droppable": true,
+      "text": "New Tab",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "69ba2e22b741c49d",
+      "parent": 0,
+      "droppable": true,
+      "text": "React Demo with Ant Design",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "93db8d2cea25a7e1",
+      "parent": 0,
+      "droppable": true,
+      "text": "React Demo with Ant Design",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "9b7b5d9dd20c708a",
+      "parent": 0,
+      "droppable": true,
+      "text": "Document",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "8f05d17249e962d7",
+      "parent": 0,
+      "droppable": true,
+      "text": "Document",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
     }
   ]
 }
