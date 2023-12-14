@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "edefcd52b55b8df0",
+        "id": "696f7ed2ef9a9bf9",
         "type": "tabs",
         "children": [
           {
-            "id": "8f05d17249e962d7",
+            "id": "42995d4ace6be800",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "markdown",
               "state": {
-                "url": "file:///C:\\AA-学习盘\\Project\\Learning-Code/Node-Code/HTTP协议相关内容/code/login.html"
+                "file": "归档/01--前端基础/JavaScript/正则表达式学习.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -46,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#每日一题",
+                "query": "tag:#每日一题/网络",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -67,18 +70,28 @@
             }
           },
           {
-            "id": "968dfc3383342fa6",
+            "id": "87db4e7ad41dbcd7",
             "type": "leaf",
             "state": {
-              "type": "surfing-tab-tree",
+              "type": "bookmarks",
               "state": {}
+            }
+          },
+          {
+            "id": "47a53db78ef7e409",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 381.50271224975586
+    "width": 389.5
   },
   "right": {
     "id": "7e1eaf5aa558b397",
@@ -90,27 +103,12 @@
         "dimension": 32.285714285714285,
         "children": [
           {
-            "id": "44df5cfe22cb7b21",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "0091c11f0415cf81",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "bd4c1548a878c7f5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "归档/01--前端基础/JavaScript/正则表达式学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,23 +125,23 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "归档/01--前端基础/JavaScript/正则表达式学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "47a53db78ef7e409",
+            "id": "83763a1c9834377e",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
+              "type": "outline",
               "state": {
-                "sortOrder": "frequency"
+                "file": "归档/01--前端基础/JavaScript/正则表达式学习.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "366e0e71d35865b6",
@@ -189,12 +187,29 @@
                 "url": "https://flowus.cn/fdbedd2a-7ae5-41f4-9448-669670ff0521"
               }
             }
+          },
+          {
+            "id": "0091c11f0415cf81",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "968dfc3383342fa6",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 385.5,
+    "width": 307.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -209,45 +224,46 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "8f05d17249e962d7",
+  "active": "42995d4ace6be800",
   "lastOpenFiles": [
+    "归档/01--前端基础/JavaScript/README.md",
+    "归档/01--前端基础/JavaScript/正则表达式学习.md",
+    "归档/01--前端基础/JavaScript/00--Js知识碎片/099--深入Js(该文件夹笔记废弃后期整理)/JS二进制.md",
+    "归档/01--前端基础/JavaScript/00--Js知识碎片/099--深入Js(该文件夹笔记废弃后期整理)/事件循环.md",
+    "Node-Code/HTTP协议相关内容/document/2023年12月6日-3-HTTP 请求体详解.md",
+    "Node-Code/HTTP协议相关内容/document/2023年12月10日--0-IP相关知识点大纲.md",
+    "Node-Code/HTTP协议相关内容/document/2023年12月6日-0-HTTP请求报文的结构与组成.md",
+    "归档/01--前端基础/JavaScript/01--手写原生函数/New函数.md",
+    "归档/07--文章输出/政采云前端技术方案模板.md",
+    "归档/07--文章输出/可拖拽自定义数据大屏解决方案/可拖拽自定义数据大屏解决方案.md",
+    "document/知识体系/README.md",
+    "Node-Code/static/周杰伦 - 斗牛.mp3",
+    "Node-Code/README.md",
+    "Node-Code/包管理工具/包管理工具介绍.md",
+    "Excalidraw/画板2023-12-13 21.46.12.excalidraw.md",
+    "Node-Code/包管理工具",
+    "Node-Code/模块化/2023年12月14日--0-CommonJS模块化规范.md",
+    "Node-Code/HTTP协议相关内容/document/2023年12月13日--0-设置HTTP响应报文.md",
+    "Node-Code/模块化",
+    "Node-Code/HTTP协议相关内容/document/2023年12月14日--0-CommonJS模块化规范.md",
+    "Node-Code/2023年12月14日--0-CommonJS模块化规范.md",
+    "Node-Code/HTTP协议相关内容/document/2023年12月11日--0-如何关闭HTTP端口.md",
+    "README.md",
+    "Node-Code/HTTP协议相关内容/document/2023年12月6日-5-响应头和响应体.md",
+    "Node-Code/HTTP协议相关内容/document/2023年12月6日-1-URL（统一资源定位符）详解.md",
+    "Node-Code/HTTP协议相关内容/code/2023年12月12日--0-http请求练习.js",
+    "Node-Code/HTTP协议相关内容/code/2023年12月13日--0-http响应练习.js",
+    "Node-Code/HTTP协议相关内容/document/2023年12月6日-4-HTTP 响应报文.md",
+    "Excalidraw",
     "Node-Code/HTTP协议相关内容/document/2023年12月12日--0-获取请求行和请求头.md",
     "Node-Code/HTTP协议相关内容/code/register.html",
     "Node-Code/HTTP协议相关内容/code/login copy.html",
     "Node-Code/HTTP协议相关内容/code/login.html",
     "Node-Code/HTTP协议相关内容/code/2023年12月12日-0-http请求练习.js",
-    "document/知识体系/README.md",
     "DUYI-Code/EREADME.md",
-    "Node-Code/HTTP协议相关内容/document/2023年12月11日--0-如何关闭HTTP端口.md",
-    "Node-Code/HTTP协议相关内容/document/2023年12月6日-4-HTTP 响应报文.md",
-    "Node-Code/HTTP协议相关内容/document/2023年12月10日--0-IP相关知识点大纲.md",
-    "Node-Code/HTTP协议相关内容/code/关闭端口.js",
-    "Node-Code/HTTP协议相关内容/code/关闭端口",
-    "README.md",
-    "Node-Code/HTTP协议相关内容/document/2023年12月6日-0-HTTP请求报文的结构与组成.md",
-    "Node-Code/HTTP协议相关内容/document/2023年12月6日-1-URL（统一资源定位符）详解.md",
     "Node-Code/HTTP协议相关内容/document/2023年12月6日-2-HTTP 请求头详解.md",
-    "Node-Code/HTTP协议相关内容/document/2023年12月6日-3-HTTP 请求体详解.md",
-    "Node-Code/HTTP协议相关内容/document/2023年12月6日-5-响应头和响应体.md",
-    "未命名.md",
-    "Node-Code/README.md",
     "Node-Code/HTTP协议相关内容/document/附件/2023年12月6日-4-HTTP 响应报文.png",
-    "Node-Code/HTTP协议相关内容/document/附件",
     "Node-Code/HTTP协议相关内容/document/附件/2023年12月6日-4-HTTP 响应报文.png",
-    "归档/08--每日一个知识点/2023年8月2日 -- this.md",
-    "Node-Code/HTTP协议相关内容/document/2023年12月6日-3-HTTP 请求体详解 copy.md",
-    "Node-Code/HTTP协议相关内容/document/2023年12月6日-3-HTTP请求体详解.md",
-    "Node-Code/HTTP协议相关内容/document/2023年12月6日-3-",
-    "Document/知识体系/README.md",
-    "document/知识体系",
-    "document",
-    "Node-Code/FS模块相关内容/document/2023年12月5日--0-Node.js中的Path模块常用方法详解.md",
-    "Node-Code/FS模块相关内容/document/2023年12月4日--1-__dirname.md",
-    "Node-Code/FS模块相关内容/document/2023年12月4日--0-文件夹操作.md",
-    "Node-Code/FS模块相关内容/document/2023年11月30--1-文件读取.md",
-    "Node-Code/FS模块相关内容/document/2023年11月30--0-文件写入.md",
-    "Node-Code/FS模块相关内容/document/2023年11月28日--0-node fs模块详细介绍.md",
-    "Node-Code/FS模块相关内容/document/2023年11月27日--2-Buffer操作与注意点.md",
     "归档/附件/知识分享-2.png",
     "归档/附件/知识分享-1.jpg",
     "归档/附件/知识分享.png",

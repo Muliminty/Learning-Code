@@ -1,21 +1,17 @@
 {
-  "accentColor": "",
+  "accentColor": "#7afdff",
   "theme": "system",
-  "cssTheme": "PLN",
-  "baseFontSize": 12,
+  "cssTheme": "Minimal",
+  "baseFontSize": 17,
   "enabledCssSnippets": [
     "weread",
     "nav-folder",
     "test",
     "donghua",
-    "animation-slide-up",
     "base",
-    "Excalidraw",
-    "mycss",
-    "nav-folder-title-icon",
-    "search-bar"
+    "nav-folder-title-icon"
   ],
-  "translucency": false,
+  "translucency": true,
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "",

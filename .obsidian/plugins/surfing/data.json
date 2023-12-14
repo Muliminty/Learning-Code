@@ -247,6 +247,17 @@
         "fileSize": "",
         "icon": {}
       }
+    },
+    {
+      "id": "42995d4ace6be800",
+      "parent": 0,
+      "droppable": true,
+      "text": "React Demo with Ant Design",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
     }
   ]
 }
