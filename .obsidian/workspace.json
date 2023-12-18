@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "归档/01--前端基础/JavaScript/正则表达式学习.md",
-                "mode": "preview",
+                "file": "Node-Code/包管理工具/document/2023年12月14日--0-包管理工具介绍.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "归档/01--前端基础/JavaScript/正则表达式学习.md",
+                "file": "Node-Code/包管理工具/document/2023年12月14日--0-包管理工具介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "归档/01--前端基础/JavaScript/正则表达式学习.md",
+                "file": "Node-Code/包管理工具/document/2023年12月14日--0-包管理工具介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "归档/01--前端基础/JavaScript/正则表达式学习.md"
+                "file": "Node-Code/包管理工具/document/2023年12月14日--0-包管理工具介绍.md"
               }
             }
           }
@@ -226,8 +226,32 @@
   },
   "active": "42995d4ace6be800",
   "lastOpenFiles": [
-    "归档/01--前端基础/JavaScript/README.md",
+    "Node-Code/包管理工具/document/2023年12月18日--0-初始化一个npm包.md",
+    "Node-Code/包管理工具/document/2023年12月14日--0-包管理工具介绍.md",
+    "Node-Code/包管理工具/code/npm_init/README.md",
+    "Node-Code/包管理工具/document/2023年12月18日--0-初始化一个npm包 1.md",
+    "Node-Code/包管理工具/document/附件/2023年12月18日--0-初始化一个npm包-6.png",
+    "Node-Code/包管理工具/code/npm_init/index.js",
+    "Node-Code/包管理工具/document/附件/2023年12月18日--0-初始化一个npm包-5.png",
+    "Node-Code/包管理工具/code/npm_init/index.test.js",
+    "Node-Code/包管理工具/code/npm_init/imdex.js",
+    "Node-Code/包管理工具/document/附件/2023年12月18日--0-初始化一个npm包-4.png",
+    "Node-Code/包管理工具/document/附件/2023年12月18日--0-初始化一个npm包-3.png",
+    "Node-Code/包管理工具/document/附件/2023年12月18日--0-初始化一个npm包-2.png",
+    "Node-Code/包管理工具/code/npm_init/package.json",
+    "Node-Code/包管理工具/document/附件/2023年12月18日--0-初始化一个npm包-1.png",
+    "Node-Code/包管理工具/code/npm_init",
+    "Node-Code/包管理工具/code/npmInit",
+    "Node-Code/包管理工具/document/附件/2023年12月18日--0-初始化一个npm包.png",
+    "Node-Code/包管理工具/document/附件/未命名.png",
+    "Node-Code/包管理工具/document/附件",
     "归档/01--前端基础/JavaScript/正则表达式学习.md",
+    "Node-Code/包管理工具/code",
+    "Node-Code/包管理工具/document",
+    "Node-Code/包管理工具/包管理工具介绍.md",
+    "Node-Code/包管理工具/doc/包管理工具介绍.md",
+    "Node-Code/包管理工具/doc",
+    "归档/01--前端基础/JavaScript/README.md",
     "归档/01--前端基础/JavaScript/00--Js知识碎片/099--深入Js(该文件夹笔记废弃后期整理)/JS二进制.md",
     "归档/01--前端基础/JavaScript/00--Js知识碎片/099--深入Js(该文件夹笔记废弃后期整理)/事件循环.md",
     "Node-Code/HTTP协议相关内容/document/2023年12月6日-3-HTTP 请求体详解.md",
@@ -237,41 +261,17 @@
     "归档/07--文章输出/政采云前端技术方案模板.md",
     "归档/07--文章输出/可拖拽自定义数据大屏解决方案/可拖拽自定义数据大屏解决方案.md",
     "document/知识体系/README.md",
-    "Node-Code/static/周杰伦 - 斗牛.mp3",
     "Node-Code/README.md",
-    "Node-Code/包管理工具/包管理工具介绍.md",
     "Excalidraw/画板2023-12-13 21.46.12.excalidraw.md",
-    "Node-Code/包管理工具",
     "Node-Code/模块化/2023年12月14日--0-CommonJS模块化规范.md",
     "Node-Code/HTTP协议相关内容/document/2023年12月13日--0-设置HTTP响应报文.md",
-    "Node-Code/模块化",
     "Node-Code/HTTP协议相关内容/document/2023年12月14日--0-CommonJS模块化规范.md",
     "Node-Code/2023年12月14日--0-CommonJS模块化规范.md",
     "Node-Code/HTTP协议相关内容/document/2023年12月11日--0-如何关闭HTTP端口.md",
     "README.md",
     "Node-Code/HTTP协议相关内容/document/2023年12月6日-5-响应头和响应体.md",
-    "Node-Code/HTTP协议相关内容/document/2023年12月6日-1-URL（统一资源定位符）详解.md",
-    "Node-Code/HTTP协议相关内容/code/2023年12月12日--0-http请求练习.js",
-    "Node-Code/HTTP协议相关内容/code/2023年12月13日--0-http响应练习.js",
-    "Node-Code/HTTP协议相关内容/document/2023年12月6日-4-HTTP 响应报文.md",
-    "Excalidraw",
-    "Node-Code/HTTP协议相关内容/document/2023年12月12日--0-获取请求行和请求头.md",
-    "Node-Code/HTTP协议相关内容/code/register.html",
-    "Node-Code/HTTP协议相关内容/code/login copy.html",
-    "Node-Code/HTTP协议相关内容/code/login.html",
-    "Node-Code/HTTP协议相关内容/code/2023年12月12日-0-http请求练习.js",
-    "DUYI-Code/EREADME.md",
-    "Node-Code/HTTP协议相关内容/document/2023年12月6日-2-HTTP 请求头详解.md",
     "Node-Code/HTTP协议相关内容/document/附件/2023年12月6日-4-HTTP 响应报文.png",
     "Node-Code/HTTP协议相关内容/document/附件/2023年12月6日-4-HTTP 响应报文.png",
-    "归档/附件/知识分享-2.png",
-    "归档/附件/知识分享-1.jpg",
-    "归档/附件/知识分享.png",
-    "300--前端相关/02--开发技巧/框架&库/ProComponents/附件/ProTable.png",
-    "300--前端相关/02--开发技巧/JavaScript/下载相关/附件/下载二进制文件.png",
-    "200--计算机基础/计算机网络/计算机网络知识碎片/附件/Pasted image 20231018151131.png",
-    "300--前端相关/08--每日一个知识点/附件/2023年8月23日 -- MVC和MVVM的概念-4.png",
-    "300--前端相关/08--每日一个知识点/附件/2023年8月23日 -- MVC和MVVM的概念-1.png",
     "999--Test/未命名.canvas",
     "Obsidian白板.canvas",
     "未命名.canvas"
