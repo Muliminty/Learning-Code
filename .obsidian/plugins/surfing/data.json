@@ -258,6 +258,61 @@
         "fileSize": "",
         "icon": {}
       }
+    },
+    {
+      "id": "a3e3401aae709440",
+      "parent": 0,
+      "droppable": true,
+      "text": "前端路上- iTab新标签页",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "44184ddd9ae7e66c",
+      "parent": 0,
+      "droppable": true,
+      "text": "QQ帐号安全登录",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "f1c06ca9c6df6574",
+      "parent": 0,
+      "droppable": true,
+      "text": "AIGC+",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "43b6593cf335e777",
+      "parent": 0,
+      "droppable": true,
+      "text": "滴答清单:一个帮你高效完成任务和规划时间的应用",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "446ef158f8294b39",
+      "parent": 0,
+      "droppable": true,
+      "text": "Semantic Versioning 2.0.0 | Semantic Versioning",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
     }
   ]
 }

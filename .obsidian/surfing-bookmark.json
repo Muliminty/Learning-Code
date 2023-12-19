@@ -1,6 +1,18 @@
 {
   "bookmarks": [
     {
+      "id": "919062128",
+      "name": "AIGC+",
+      "url": "https://go.aigcplus.cc/chat/15255988852933",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1702990600712,
+      "modified": 1702990600712
+    },
+    {
       "id": "-1783380247",
       "name": "图解HTTP-上野宣-微信读书",
       "url": "https://weread.qq.com/web/reader/3da32b505dd9f43da9a1aca?",

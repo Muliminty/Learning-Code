@@ -4,19 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "696f7ed2ef9a9bf9",
+        "id": "d4916e486a4386f3",
         "type": "tabs",
+        "dimension": 70.63037249283668,
         "children": [
           {
-            "id": "42995d4ace6be800",
+            "id": "c0e8295b256f12ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node-Code/包管理工具/document/2023年12月14日--0-包管理工具介绍.md",
+                "file": "Node-Code/包管理工具/document/2023年12月19日--3-nvm介绍和使用.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9422d65e9cfe1d6e",
+        "type": "tabs",
+        "dimension": 29.369627507163326,
+        "children": [
+          {
+            "id": "f1c06ca9c6df6574",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://go.aigcplus.cc/chat/30799289991045"
               }
             }
           }
@@ -91,24 +109,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 356.5,
+    "collapsed": true
   },
   "right": {
     "id": "7e1eaf5aa558b397",
     "type": "split",
     "children": [
       {
-        "id": "4ee6c0f648cd6fb3",
+        "id": "0dc13158049e544f",
         "type": "tabs",
-        "dimension": 32.285714285714285,
         "children": [
+          {
+            "id": "83763a1c9834377e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "0091c11f0415cf81",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "968dfc3383342fa6",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          },
           {
             "id": "bd4c1548a878c7f5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node-Code/包管理工具/document/2023年12月14日--0-包管理工具介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,19 +166,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node-Code/包管理工具/document/2023年12月14日--0-包管理工具介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "83763a1c9834377e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Node-Code/包管理工具/document/2023年12月14日--0-包管理工具介绍.md"
               }
             }
           }
@@ -146,7 +176,6 @@
       {
         "id": "366e0e71d35865b6",
         "type": "tabs",
-        "dimension": 67.71428571428572,
         "children": [
           {
             "id": "8b3983fc61f6ffa6",
@@ -187,29 +216,12 @@
                 "url": "https://flowus.cn/fdbedd2a-7ae5-41f4-9448-669670ff0521"
               }
             }
-          },
-          {
-            "id": "0091c11f0415cf81",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "968dfc3383342fa6",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-tab-tree",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 307.5,
+    "width": 368.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -224,8 +236,15 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "42995d4ace6be800",
+  "active": "f1c06ca9c6df6574",
   "lastOpenFiles": [
+    "Node-Code/包管理工具/document/2023年12月19日--3-nvm介绍和使用.md",
+    "Node-Code/包管理工具/资源/nvm-setup.exe",
+    "Node-Code/包管理工具/资源",
+    "Node-Code/包管理工具/document/2023年12月19日--2-环境变量.md",
+    "Node-Code/包管理工具/document/2023年12月19日--1-npm 全局安装.md",
+    "Node-Code/包管理工具/document/2023年12月19日--0-生产依赖和开发依赖.md",
+    "Node-Code/包管理工具/document/附件/2023年12月19日--0-生产依赖和开发依赖.png",
     "Node-Code/包管理工具/document/2023年12月18日--0-初始化一个npm包.md",
     "Node-Code/包管理工具/document/2023年12月14日--0-包管理工具介绍.md",
     "Node-Code/包管理工具/code/npm_init/README.md",
@@ -247,10 +266,8 @@
     "Node-Code/包管理工具/document/附件",
     "归档/01--前端基础/JavaScript/正则表达式学习.md",
     "Node-Code/包管理工具/code",
-    "Node-Code/包管理工具/document",
     "Node-Code/包管理工具/包管理工具介绍.md",
     "Node-Code/包管理工具/doc/包管理工具介绍.md",
-    "Node-Code/包管理工具/doc",
     "归档/01--前端基础/JavaScript/README.md",
     "归档/01--前端基础/JavaScript/00--Js知识碎片/099--深入Js(该文件夹笔记废弃后期整理)/JS二进制.md",
     "归档/01--前端基础/JavaScript/00--Js知识碎片/099--深入Js(该文件夹笔记废弃后期整理)/事件循环.md",
@@ -265,12 +282,6 @@
     "Excalidraw/画板2023-12-13 21.46.12.excalidraw.md",
     "Node-Code/模块化/2023年12月14日--0-CommonJS模块化规范.md",
     "Node-Code/HTTP协议相关内容/document/2023年12月13日--0-设置HTTP响应报文.md",
-    "Node-Code/HTTP协议相关内容/document/2023年12月14日--0-CommonJS模块化规范.md",
-    "Node-Code/2023年12月14日--0-CommonJS模块化规范.md",
-    "Node-Code/HTTP协议相关内容/document/2023年12月11日--0-如何关闭HTTP端口.md",
-    "README.md",
-    "Node-Code/HTTP协议相关内容/document/2023年12月6日-5-响应头和响应体.md",
-    "Node-Code/HTTP协议相关内容/document/附件/2023年12月6日-4-HTTP 响应报文.png",
     "Node-Code/HTTP协议相关内容/document/附件/2023年12月6日-4-HTTP 响应报文.png",
     "999--Test/未命名.canvas",
     "Obsidian白板.canvas",
