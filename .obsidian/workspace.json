@@ -6,7 +6,6 @@
       {
         "id": "d4916e486a4386f3",
         "type": "tabs",
-        "dimension": 70.63037249283668,
         "children": [
           {
             "id": "c0e8295b256f12ce",
@@ -14,31 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node-Code/包管理工具/document/2023年12月19日--3-nvm介绍和使用.md",
+                "file": "Node-Code/express框架相关内容/document/2023年12月20日--1-express路由.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bffbd8b9bca09e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node-Code/express框架相关内容/document/2023年12月20日--2-express app示例的详细介绍.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "9422d65e9cfe1d6e",
-        "type": "tabs",
-        "dimension": 29.369627507163326,
-        "children": [
-          {
-            "id": "f1c06ca9c6df6574",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://go.aigcplus.cc/chat/30799289991045"
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#每日一题/网络",
+                "query": "nodemon",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -109,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "7e1eaf5aa558b397",
@@ -119,21 +114,16 @@
       {
         "id": "0dc13158049e544f",
         "type": "tabs",
+        "dimension": 76.52582159624414,
         "children": [
           {
             "id": "83763a1c9834377e",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "0091c11f0415cf81",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
+              "state": {
+                "file": "Node-Code/express框架相关内容/document/2023年12月20日--2-express app示例的详细介绍.md"
+              }
             }
           },
           {
@@ -150,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Node-Code/express框架相关内容/document/2023年12月20日--2-express app示例的详细介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,63 +157,42 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Node-Code/express框架相关内容/document/2023年12月20日--2-express app示例的详细介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9566e7bd907680f",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://chat18.aichatos.xyz/#/chat/1703082086102"
               }
             }
           }
         ]
       },
       {
-        "id": "366e0e71d35865b6",
+        "id": "475e7244f1d07e33",
         "type": "tabs",
+        "dimension": 23.474178403755868,
         "children": [
           {
-            "id": "8b3983fc61f6ffa6",
+            "id": "0091c11f0415cf81",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "http://yuindex.yupi.icu/#/"
-              }
-            }
-          },
-          {
-            "id": "fa9d31c059ecf26d",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://go.itab.link/"
-              }
-            }
-          },
-          {
-            "id": "43b6593cf335e777",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.dida365.com/#q/all/tasks"
-              }
-            }
-          },
-          {
-            "id": "ae088fc3cf22ae65",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://flowus.cn/fdbedd2a-7ae5-41f4-9448-669670ff0521"
-              }
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,52 +206,53 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "f1c06ca9c6df6574",
+  "active": "2bffbd8b9bca09e0",
   "lastOpenFiles": [
-    "Node-Code/包管理工具/document/2023年12月19日--3-nvm介绍和使用.md",
-    "Node-Code/包管理工具/资源/nvm-setup.exe",
-    "Node-Code/包管理工具/资源",
-    "Node-Code/包管理工具/document/2023年12月19日--2-环境变量.md",
-    "Node-Code/包管理工具/document/2023年12月19日--1-npm 全局安装.md",
-    "Node-Code/包管理工具/document/2023年12月19日--0-生产依赖和开发依赖.md",
+    "Node-Code/express框架相关内容/document/2023年12月20日--1-express路由.md",
+    "Node-Code/express框架相关内容/document/2023年12月20日--2-express app示例的详细介绍.md",
+    "Node-Code/express框架相关内容/document/2023年12月20日--0-express介绍.md",
+    "Node-Code/express框架相关内容/code/01_初体验.js",
+    "Node-Code/express框架相关内容/code/package-lock.json",
+    "Node-Code/express框架相关内容/code/node_modules/etag/HISTORY.md",
+    "Node-Code/express框架相关内容/code/node_modules/etag/index.js",
+    "Node-Code/express框架相关内容/code/node_modules/send/SECURITY.md",
+    "Node-Code/express框架相关内容/code/node_modules/http-errors/README.md",
+    "Node-Code/express框架相关内容/code/node_modules/http-errors/HISTORY.md",
+    "Node-Code/express框架相关内容/code/node_modules/merge-descriptors/HISTORY.md",
+    "Node-Code/express框架相关内容/code/node_modules/merge-descriptors/index.js",
+    "Node-Code/express框架相关内容/code/node_modules/merge-descriptors/LICENSE",
+    "Node-Code/express框架相关内容/code/node_modules/send/README.md",
+    "Node-Code/express框架相关内容/code/node_modules/merge-descriptors/README.md",
+    "Node-Code/express框架相关内容/code/node_modules/send/HISTORY.md",
+    "Node-Code/express框架相关内容/code/node_modules/merge-descriptors/package.json",
+    "Node-Code/express框架相关内容/code/node_modules/http-errors/index.js",
+    "Node-Code/express框架相关内容/code/node_modules/http-errors/LICENSE",
+    "Node-Code/express框架相关内容/code/node_modules/etag/LICENSE",
+    "Node-Code/express框架相关内容/code/node_modules/etag/README.md",
+    "Node-Code/express框架相关内容/code/node_modules/etag/package.json",
+    "Node-Code/express框架相关内容/code/node_modules/body-parser/SECURITY.md",
+    "Node-Code/express框架相关内容/code/node_modules/body-parser/README.md",
+    "Node-Code/express框架相关内容/code/node_modules/body-parser/HISTORY.md",
+    "Node-Code/express框架相关内容/code/node_modules/express/Readme.md",
+    "Node-Code/express框架相关内容/code/node_modules/express/History.md",
+    "Node-Code/express框架相关内容/code/node_modules/bytes/Readme.md",
+    "Node-Code/express框架相关内容/code/node_modules/bytes/History.md",
+    "Node-Code/express框架相关内容/code/node_modules/send/node_modules/ms/readme.md",
+    "Node-Code/express框架相关内容/code/node_modules/accepts/README.md",
+    "Node-Code/express框架相关内容/code/node_modules/accepts/HISTORY.md",
+    "Node-Code/express框架相关内容/code/node_modules/send/node_modules/ms/license.md",
+    "Node-Code/express框架相关内容/code/node_modules/qs/CHANGELOG.md",
+    "Node-Code/express框架相关内容/code/node_modules/cookie/README.md",
+    "Node-Code/express框架相关内容/code/node_modules/cookie-signature/Readme.md",
     "Node-Code/包管理工具/document/附件/2023年12月19日--0-生产依赖和开发依赖.png",
-    "Node-Code/包管理工具/document/2023年12月18日--0-初始化一个npm包.md",
-    "Node-Code/包管理工具/document/2023年12月14日--0-包管理工具介绍.md",
-    "Node-Code/包管理工具/code/npm_init/README.md",
-    "Node-Code/包管理工具/document/2023年12月18日--0-初始化一个npm包 1.md",
     "Node-Code/包管理工具/document/附件/2023年12月18日--0-初始化一个npm包-6.png",
-    "Node-Code/包管理工具/code/npm_init/index.js",
     "Node-Code/包管理工具/document/附件/2023年12月18日--0-初始化一个npm包-5.png",
-    "Node-Code/包管理工具/code/npm_init/index.test.js",
-    "Node-Code/包管理工具/code/npm_init/imdex.js",
     "Node-Code/包管理工具/document/附件/2023年12月18日--0-初始化一个npm包-4.png",
     "Node-Code/包管理工具/document/附件/2023年12月18日--0-初始化一个npm包-3.png",
     "Node-Code/包管理工具/document/附件/2023年12月18日--0-初始化一个npm包-2.png",
-    "Node-Code/包管理工具/code/npm_init/package.json",
     "Node-Code/包管理工具/document/附件/2023年12月18日--0-初始化一个npm包-1.png",
-    "Node-Code/包管理工具/code/npm_init",
-    "Node-Code/包管理工具/code/npmInit",
     "Node-Code/包管理工具/document/附件/2023年12月18日--0-初始化一个npm包.png",
     "Node-Code/包管理工具/document/附件/未命名.png",
-    "Node-Code/包管理工具/document/附件",
-    "归档/01--前端基础/JavaScript/正则表达式学习.md",
-    "Node-Code/包管理工具/code",
-    "Node-Code/包管理工具/包管理工具介绍.md",
-    "Node-Code/包管理工具/doc/包管理工具介绍.md",
-    "归档/01--前端基础/JavaScript/README.md",
-    "归档/01--前端基础/JavaScript/00--Js知识碎片/099--深入Js(该文件夹笔记废弃后期整理)/JS二进制.md",
-    "归档/01--前端基础/JavaScript/00--Js知识碎片/099--深入Js(该文件夹笔记废弃后期整理)/事件循环.md",
-    "Node-Code/HTTP协议相关内容/document/2023年12月6日-3-HTTP 请求体详解.md",
-    "Node-Code/HTTP协议相关内容/document/2023年12月10日--0-IP相关知识点大纲.md",
-    "Node-Code/HTTP协议相关内容/document/2023年12月6日-0-HTTP请求报文的结构与组成.md",
-    "归档/01--前端基础/JavaScript/01--手写原生函数/New函数.md",
-    "归档/07--文章输出/政采云前端技术方案模板.md",
-    "归档/07--文章输出/可拖拽自定义数据大屏解决方案/可拖拽自定义数据大屏解决方案.md",
-    "document/知识体系/README.md",
-    "Node-Code/README.md",
-    "Excalidraw/画板2023-12-13 21.46.12.excalidraw.md",
-    "Node-Code/模块化/2023年12月14日--0-CommonJS模块化规范.md",
-    "Node-Code/HTTP协议相关内容/document/2023年12月13日--0-设置HTTP响应报文.md",
     "Node-Code/HTTP协议相关内容/document/附件/2023年12月6日-4-HTTP 响应报文.png",
     "999--Test/未命名.canvas",
     "Obsidian白板.canvas",
