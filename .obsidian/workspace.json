@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node-Code/express框架相关内容/document/2023年12月20日--1-Express 路由.md",
+                "file": "Node-Code/express框架相关内容/document/2023年12月25日--0-express中间件.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fd697317bebedc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node-Code/express框架相关内容/document/2023年12月25日--0-express中间件.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Express",
+                "query": "dirname",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -108,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node-Code/express框架相关内容/document/2023年12月20日--1-Express 路由.md"
+                "file": "Node-Code/express框架相关内容/document/2023年12月25日--0-express中间件.md"
               }
             }
           },
@@ -126,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node-Code/express框架相关内容/document/2023年12月20日--1-Express 路由.md",
+                "file": "Node-Code/express框架相关内容/document/2023年12月25日--0-express中间件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node-Code/express框架相关内容/document/2023年12月20日--1-Express 路由.md",
+                "file": "Node-Code/express框架相关内容/document/2023年12月25日--0-express中间件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,18 +206,21 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "f249ce9c9b0efefd",
+  "active": "b5f9d18702c6bf89",
   "lastOpenFiles": [
-    "Node-Code/express框架相关内容/document/2023年12月20日--2-Express app示例的详细介绍.md",
     "Node-Code/express框架相关内容/document/2023年12月21日--0-在 Express 请求和响应.md",
     "Node-Code/express框架相关内容/document/2023年12月25日--0-express中间件.md",
+    "Node-Code/FS模块相关内容/document/2023年12月4日--1-__dirname.md",
+    "Node-Code/FS模块相关内容/document/2023年12月5日--0-Node.js中的Path模块常用方法详解.md",
+    "Node-Code/express框架相关内容/document/2023年12月26日--0-静态资源中间件.md",
+    "Node-Code/express框架相关内容/document/2023年12月20日--1-Express 路由.md",
+    "Node-Code/express框架相关内容/document/2023年12月20日--2-Express app示例的详细介绍.md",
     "Node-Code/express框架相关内容/code/03_路由中间件demo.js",
     "Node-Code/express框架相关内容/code/02_应用中间件demo copy.js",
     "Node-Code/express框架相关内容/code/02_应用中间件demo.js",
     "Node-Code/express框架相关内容/code/access.log",
     "Node-Code/express框架相关内容/code/02_中间件demo.js",
     "Node-Code/express框架相关内容/document/2023年12月20日--0-Express 介绍.md",
-    "Node-Code/express框架相关内容/document/2023年12月20日--1-Express 路由.md",
     "Node-Code/express框架相关内容/code/01_初体验.js",
     "Node-Code/express框架相关内容/code/package-lock.json",
     "Node-Code/express框架相关内容/code/node_modules/etag/HISTORY.md",
@@ -227,8 +244,6 @@
     "Node-Code/express框架相关内容/code/node_modules/bytes/History.md",
     "Node-Code/express框架相关内容/code/node_modules/send/node_modules/ms/readme.md",
     "Node-Code/express框架相关内容/code/node_modules/accepts/README.md",
-    "Node-Code/express框架相关内容/code/node_modules/accepts/HISTORY.md",
-    "Node-Code/express框架相关内容/code/node_modules/send/node_modules/ms/license.md",
     "Node-Code/包管理工具/document/附件/2023年12月19日--0-生产依赖和开发依赖.png",
     "Node-Code/包管理工具/document/附件/2023年12月18日--0-初始化一个npm包-6.png",
     "Node-Code/包管理工具/document/附件/2023年12月18日--0-初始化一个npm包-5.png",
