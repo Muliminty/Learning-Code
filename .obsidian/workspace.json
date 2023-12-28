@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d4916e486a4386f3",
+        "id": "13c78ea87627783f",
         "type": "tabs",
         "children": [
           {
-            "id": "f249ce9c9b0efefd",
+            "id": "9a0655591404b374",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node-Code/express框架相关内容/document/2023年12月25日--0-express中间件.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fd697317bebedc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node-Code/express框架相关内容/document/2023年12月25日--0-express中间件.md",
+                "file": "Node-Code/EJS模板引擎/document/2023年12月28日--0-EJS 模板引擎.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +83,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -122,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node-Code/express框架相关内容/document/2023年12月25日--0-express中间件.md"
+                "file": "Node-Code/EJS模板引擎/document/2023年12月28日--0-EJS 模板引擎.md"
               }
             }
           },
@@ -140,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node-Code/express框架相关内容/document/2023年12月25日--0-express中间件.md",
+                "file": "Node-Code/EJS模板引擎/document/2023年12月28日--0-EJS 模板引擎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node-Code/express框架相关内容/document/2023年12月25日--0-express中间件.md",
+                "file": "Node-Code/EJS模板引擎/document/2023年12月28日--0-EJS 模板引擎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,44 +194,44 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "b5f9d18702c6bf89",
+  "active": "9a0655591404b374",
   "lastOpenFiles": [
-    "Node-Code/express框架相关内容/document/2023年12月21日--0-在 Express 请求和响应.md",
+    "Node-Code/EJS模板引擎/code/template.ejs",
+    "Node-Code/EJS模板引擎/code/package-lock.json",
+    "Node-Code/EJS模板引擎/code/package.json",
+    "Node-Code/EJS模板引擎/code/node_modules/async/README.md",
+    "Node-Code/EJS模板引擎/code/node_modules/async/CHANGELOG.md",
+    "Node-Code/EJS模板引擎/code/node_modules/async/package.json",
+    "Node-Code/EJS模板引擎/code/node_modules/async/bower.json",
+    "Node-Code/EJS模板引擎/code/node_modules/async/wrapSync.js",
+    "Node-Code/EJS模板引擎/code/node_modules/async/whilst.js",
+    "Node-Code/EJS模板引擎/code/node_modules/async/waterfall.js",
+    "Node-Code/EJS模板引擎/code/node_modules/async/until.js",
+    "Node-Code/EJS模板引擎/code/node_modules/async/some.js",
+    "Node-Code/EJS模板引擎/code/node_modules/async/setImmediate.js",
+    "Node-Code/EJS模板引擎/code/node_modules/ejs/README.md",
+    "Node-Code/EJS模板引擎/code/node_modules/supports-color/readme.md",
+    "Node-Code/EJS模板引擎/code/node_modules/jake/README.md",
+    "Node-Code/EJS模板引擎/code/node_modules/filelist/node_modules/brace-expansion/README.md",
+    "Node-Code/EJS模板引擎/code/node_modules/color-convert/README.md",
+    "Node-Code/EJS模板引擎/code/node_modules/color-convert/CHANGELOG.md",
+    "Node-Code/express框架相关内容/document/2023年12月28日--3-Express中的app.use()方法详解.md",
+    "Node-Code/EJS模板引擎/document/2023年12月28日--0-EJS 模板引擎.md",
+    "Node-Code/express框架相关内容/document/2023年12月28日--2-Express 路由模块化.md",
+    "Node-Code/express框架相关内容/document/2023年12月28日--1- Express 防盗链.md",
+    "Node-Code/express框架相关内容/document/2023年12月28日--0-Express 中间件.md",
     "Node-Code/express框架相关内容/document/2023年12月25日--0-express中间件.md",
+    "Node-Code/express框架相关内容/document/2023年12月26日--0-静态资源中间件.md",
+    "Node-Code/express框架相关内容/document/2023年12月21日--0-在 Express 请求和响应.md",
     "Node-Code/FS模块相关内容/document/2023年12月4日--1-__dirname.md",
     "Node-Code/FS模块相关内容/document/2023年12月5日--0-Node.js中的Path模块常用方法详解.md",
-    "Node-Code/express框架相关内容/document/2023年12月26日--0-静态资源中间件.md",
     "Node-Code/express框架相关内容/document/2023年12月20日--1-Express 路由.md",
     "Node-Code/express框架相关内容/document/2023年12月20日--2-Express app示例的详细介绍.md",
-    "Node-Code/express框架相关内容/code/03_路由中间件demo.js",
-    "Node-Code/express框架相关内容/code/02_应用中间件demo copy.js",
-    "Node-Code/express框架相关内容/code/02_应用中间件demo.js",
-    "Node-Code/express框架相关内容/code/access.log",
-    "Node-Code/express框架相关内容/code/02_中间件demo.js",
     "Node-Code/express框架相关内容/document/2023年12月20日--0-Express 介绍.md",
-    "Node-Code/express框架相关内容/code/01_初体验.js",
-    "Node-Code/express框架相关内容/code/package-lock.json",
     "Node-Code/express框架相关内容/code/node_modules/etag/HISTORY.md",
-    "Node-Code/express框架相关内容/code/node_modules/etag/index.js",
     "Node-Code/express框架相关内容/code/node_modules/send/SECURITY.md",
     "Node-Code/express框架相关内容/code/node_modules/http-errors/README.md",
     "Node-Code/express框架相关内容/code/node_modules/http-errors/HISTORY.md",
-    "Node-Code/express框架相关内容/code/node_modules/merge-descriptors/HISTORY.md",
-    "Node-Code/express框架相关内容/code/node_modules/merge-descriptors/index.js",
-    "Node-Code/express框架相关内容/code/node_modules/merge-descriptors/LICENSE",
-    "Node-Code/express框架相关内容/code/node_modules/send/README.md",
-    "Node-Code/express框架相关内容/code/node_modules/merge-descriptors/README.md",
-    "Node-Code/express框架相关内容/code/node_modules/send/HISTORY.md",
-    "Node-Code/express框架相关内容/code/node_modules/etag/README.md",
-    "Node-Code/express框架相关内容/code/node_modules/body-parser/SECURITY.md",
-    "Node-Code/express框架相关内容/code/node_modules/body-parser/README.md",
-    "Node-Code/express框架相关内容/code/node_modules/body-parser/HISTORY.md",
-    "Node-Code/express框架相关内容/code/node_modules/express/Readme.md",
-    "Node-Code/express框架相关内容/code/node_modules/express/History.md",
-    "Node-Code/express框架相关内容/code/node_modules/bytes/Readme.md",
-    "Node-Code/express框架相关内容/code/node_modules/bytes/History.md",
-    "Node-Code/express框架相关内容/code/node_modules/send/node_modules/ms/readme.md",
-    "Node-Code/express框架相关内容/code/node_modules/accepts/README.md",
     "Node-Code/包管理工具/document/附件/2023年12月19日--0-生产依赖和开发依赖.png",
     "Node-Code/包管理工具/document/附件/2023年12月18日--0-初始化一个npm包-6.png",
     "Node-Code/包管理工具/document/附件/2023年12月18日--0-初始化一个npm包-5.png",
