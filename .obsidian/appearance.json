@@ -2,7 +2,7 @@
   "accentColor": "#7afdff",
   "theme": "system",
   "cssTheme": "Minimal",
-  "baseFontSize": 17,
+  "baseFontSize": 19,
   "enabledCssSnippets": [
     "weread",
     "nav-folder",
