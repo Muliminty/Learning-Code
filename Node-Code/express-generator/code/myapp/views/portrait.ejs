@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>用户信息上传表单</title>
+</head>
+
+<body>
+  <h2>用户信息上传表单</h2>
+  <form action="/portrait" method="POST" enctype="multipart/form-data">
+    <div>
+      <label for="username">用户名：</label>
+      <input type="text" id="username" name="username" />
+    </div>
+    <br />
+    <div>
+      <label for="avatar">头像：</label>
+      <input type="file" id="avatar" name="avatar" />
+    </div>
+    <br /><br />
+    <input type="submit" value="提交" />
+  </form>
+</body>
+
+</html>

@@ -38,8 +38,8 @@ plugins: [
 在这个示例中，我们使用 HtmlWebpackPlugin 插件来生成一个 HTML 文件。`template` 属性指定了模板文件的路径，插件将基于这个模板生成最终的 HTML 文件。
 
 总结：
+
 - Loaders 用于转换文件，对文件进行预处理。
 - Plugins 用于增强 webpack 功能，执行自定义任务。
 
 Loaders 和 Plugins 都是 webpack 中非常重要的概念，它们可以帮助我们实现更高级的构建和优化策略。
-
