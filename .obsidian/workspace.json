@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node-Code/express-generator/document/2024年1月4日--0-lowdb.md",
+                "file": "Nginx/document/nginx 入门.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node-Code/EJS模板引擎/document/2023年12月28日--0-EJS 模板引擎.md"
+                "file": "Nginx/document/nginx 入门.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node-Code/EJS模板引擎/document/2023年12月28日--0-EJS 模板引擎.md",
+                "file": "Nginx/document/nginx 入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node-Code/EJS模板引擎/document/2023年12月28日--0-EJS 模板引擎.md",
+                "file": "Nginx/document/nginx 入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,8 +208,13 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "b5f9d18702c6bf89",
+  "active": "e2db1daed9be7e1f",
   "lastOpenFiles": [
+    "Webpack5/document/2024年1月16日-webpack介绍和使用.md",
+    "Nginx/document/nginx 入门.md",
+    "Nginx/document",
+    "Nginx",
+    "Node-Code/EJS模板引擎/document/2023年12月28日--0-EJS 模板引擎.md",
     "Node-Code/MongoDB/document/MongoDB.md",
     "Node-Code/MongoDB/document",
     "Node-Code/MongoDB",
@@ -222,8 +227,6 @@
     "Node-Code/express-generator/code/accounts/node_modules/mime/build/test.js",
     "Node-Code/express-generator/code/accounts/node_modules/mime/build",
     "Node-Code/express-generator/code/accounts/node_modules/mime/cli.js",
-    "Node-Code/express-generator/code/accounts/node_modules/inherits/inherits_browser.js",
-    "Node-Code/express-generator/code/accounts/node_modules/ejs/lib/ejs.js",
     "Node-Code/express-generator/code/accounts/node_modules/negotiator/HISTORY.md",
     "Node-Code/express-generator/code/accounts/node_modules/send/README.md",
     "Node-Code/express-generator/code/accounts/node_modules/statuses/README.md",
@@ -251,9 +254,6 @@
     "Node-Code/express-generator/code/myapp/node_modules/statuses/README.md",
     "Node-Code/express-generator/code/myapp/node_modules/send/README.md",
     "Node-Code/express-generator/code/myapp/node_modules/body-parser/HISTORY.md",
-    "Node-Code/express-generator/code/myapp/node_modules/express/node_modules/cookie/HISTORY.md",
-    "Node-Code/express-generator/code/myapp/node_modules/http-errors/HISTORY.md",
-    "Node-Code/express-generator/code/myapp/node_modules/serve-static/README.md",
     "Node-Code/包管理工具/document/附件/2023年12月19日--0-生产依赖和开发依赖.png",
     "Node-Code/包管理工具/document/附件/2023年12月18日--0-初始化一个npm包-6.png",
     "999--Test/未命名.canvas",
