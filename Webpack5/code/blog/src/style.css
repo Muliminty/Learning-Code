@@ -9,3 +9,11 @@ li {
   margin-right: 10px;
   background-color: red;
 }
+
+img {
+  width: 100px;
+  height: 100px;
+  margin-right: 10px;
+  /* border-radius: 50%; */
+  object-fit: cover;
+}

@@ -12,6 +12,11 @@ module.exports = {
       {
         test: /\.css$/, // 匹配处理以.css结尾的文件
         use: ['style-loader', 'css-loader'] // 指定使用的loader，用于处理CSS文件
+      },
+      {
+        test: /\.(png|svg|jpg|gif)$/, // 匹配处理图片文件
+        // use: ['file-loader'] // 指定使用的loader，用于处理图片文件
+        type: 'asset/resource'// 指定使用的loader，用于处理图片文件
       }
     ]
   }

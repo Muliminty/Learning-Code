@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "13c78ea87627783f",
+        "id": "df0f20d76ab3c8d2",
         "type": "tabs",
         "children": [
           {
-            "id": "9a0655591404b374",
+            "id": "a80bb19b7bdab596",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node-Code/EJS模板引擎/document/2023年12月28日--0-EJS 模板引擎.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2db1daed9be7e1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Webpack5/document/2024年1月16日-webpack介绍和使用.md",
+                "file": "Webpack5/document/插件/HtmlWebpackPlugin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Webpack5/document/2024年1月16日-webpack介绍和使用.md"
+                "file": "Webpack5/document/插件/HtmlWebpackPlugin.md"
               }
             }
           },
@@ -143,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webpack5/document/2024年1月16日-webpack介绍和使用.md",
+                "file": "Webpack5/document/插件/HtmlWebpackPlugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webpack5/document/2024年1月16日-webpack介绍和使用.md",
+                "file": "Webpack5/document/插件/HtmlWebpackPlugin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,8 +196,12 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "e2db1daed9be7e1f",
+  "active": "a80bb19b7bdab596",
   "lastOpenFiles": [
+    "Webpack5/document/2024年1月16日-webpack介绍和使用.md",
+    "Webpack5/document/插件/HtmlWebpackPlugin.md",
+    "Webpack5/document/插件",
+    "Node-Code/EJS模板引擎/document/2023年12月28日--0-EJS 模板引擎.md",
     "Webpack5/code/blog/node_modules/postcss-modules-values/src/index.js",
     "Webpack5/code/blog/node_modules/postcss-modules-values/src",
     "Webpack5/code/blog/node_modules/css-loader/README.md",
@@ -221,8 +212,6 @@
     "Webpack5/code/blog/node_modules/css-loader/dist/plugins/index.js",
     "Webpack5/code/blog/node_modules/css-loader/dist/runtime/sourceMaps.js",
     "Webpack5/code/blog/node_modules/css-loader/dist/runtime/getUrl.js",
-    "Webpack5/code/blog/node_modules/css-loader/dist/runtime/api.js",
-    "Webpack5/code/blog/node_modules/css-loader/dist/runtime/noSourceMaps.js",
     "Webpack5/code/blog/node_modules/icss-utils/README.md",
     "Webpack5/code/blog/node_modules/icss-utils/LICENSE.md",
     "Webpack5/code/blog/node_modules/icss-utils/CHANGELOG.md",
@@ -245,8 +234,6 @@
     "Webpack5/code/blog/node_modules/webpack/README.md",
     "Webpack5/code/blog/node_modules/browserslist/README.md",
     "Webpack5/code/blog/node_modules/@webassemblyjs/ast/README.md",
-    "Webpack5/code/blog/node_modules/acorn/README.md",
-    "Webpack5/code/blog/node_modules/acorn/CHANGELOG.md",
     "Node-Code/express-generator/code/myapp/public/images/c91c4826145d903f12ab56900.png",
     "Node-Code/express-generator/code/myapp/public/images/2a4ce5daa9cb0ed2acbf1ca00.png",
     "Node-Code/express-generator/code/myapp/public/images/3f36a71d8f9770e8f69f55700.png",
