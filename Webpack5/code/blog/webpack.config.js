@@ -15,6 +15,11 @@ module.exports = {
     minimize: true, // 是否开启代码压缩
     minimizer: [new TerserPlugin()], // 使用 TerserPlugin 压缩代码
   },
+  // 开发服务器配置
+  devServer: {
+    static: './dist', // 指定静态文件目录
+    port: 8080 // 服务器端口号
+  },
   plugins: [
     new HtmlWebpackPlugin({
       title: 'Webpack Demo', // 指定生成的HTML文件的标题
