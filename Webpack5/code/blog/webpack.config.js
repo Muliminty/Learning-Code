@@ -1,6 +1,7 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const TerserPlugin = require('terser-webpack-plugin'); // 引入压缩插件
+const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;// 引入打包分析插件
 
 module.exports = {
   mode: 'development', // 指定Webpack的工作模式是开发模式
@@ -27,6 +28,7 @@ module.exports = {
       // template: 'src/index.html', // 指定模板文件路径
       filename: 'index.html', // 指定生成的 HTML 文件名
     }),
+    new BundleAnalyzerPlugin(),// 使用打包分析插件
   ],
   resolve: {// 配置Webpack如何寻找模块所对应的文件
     alias: {
