@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webpack5/document/插件/Webpack Dev Server.md",
+                "file": "Webpack5/document/webpack介绍和使用.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Webpack5/document/插件/Webpack Dev Server.md"
+                "file": "Webpack5/document/webpack介绍和使用.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webpack5/document/插件/Webpack Dev Server.md",
+                "file": "Webpack5/document/webpack介绍和使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webpack5/document/插件/Webpack Dev Server.md",
+                "file": "Webpack5/document/webpack介绍和使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,18 +210,26 @@
   },
   "active": "459656bf6c5eabce",
   "lastOpenFiles": [
-    "Webpack5/code/blog/node_modules/define-lazy-prop/package.json",
+    "Webpack5/code/blog/dist/main.0a9255549bcd8082c590.js.LICENSE.txt",
+    "Webpack5/code/blog/dist/main.0a9255549bcd8082c590.js",
+    "Webpack5/code/blog/dist/main.b92876fee6a37152ec16.js.LICENSE.txt",
+    "Webpack5/code/blog/dist/main.b92876fee6a37152ec16.js",
+    "Webpack5/code/blog/node_modules/find-cache-dir/node_modules/path-exists/index.js",
+    "Webpack5/code/blog/node_modules/find-cache-dir/node_modules/path-exists/package.json",
+    "Webpack5/code/blog/node_modules/@babel/helpers/package.json",
+    "Webpack5/code/blog/node_modules/@babel/plugin-syntax-export-namespace-from/lib/index.js",
+    "Webpack5/code/blog/node_modules/@babel/plugin-syntax-export-namespace-from/lib",
+    "Webpack5/code/blog/node_modules/@babel/plugin-syntax-optional-catch-binding/package.json",
+    "Webpack5/code/blog/node_modules/@babel/plugin-syntax-json-strings/package.json",
+    "Webpack5/code/blog/node_modules/unicode-canonical-property-names-ecmascript/README.md",
+    "Webpack5/code/blog/node_modules/unicode-match-property-ecmascript/README.md",
+    "Webpack5/code/blog/node_modules/color-convert/README.md",
+    "Webpack5/code/blog/node_modules/color-convert/CHANGELOG.md",
+    "Webpack5/code/blog/node_modules/ansi-styles/readme.md",
+    "Webpack5/code/blog/node_modules/escape-string-regexp/readme.md",
+    "README.md",
+    "Webpack5/document/插件/Webpack Dev Server.md",
     "Webpack5/code/blog/node_modules/define-lazy-prop/readme.md",
-    "Webpack5/code/blog/node_modules/define-lazy-prop/license",
-    "Webpack5/code/blog/node_modules/define-lazy-prop/index.js",
-    "Webpack5/code/blog/node_modules/define-lazy-prop/index.d.ts",
-    "Webpack5/code/blog/node_modules/define-lazy-prop",
-    "Webpack5/code/blog/node_modules/serve-index/node_modules/debug/src/node.js",
-    "Webpack5/code/blog/node_modules/serve-index/node_modules/debug/src/inspector-log.js",
-    "Webpack5/code/blog/node_modules/serve-index/node_modules/debug/src/index.js",
-    "Webpack5/code/blog/node_modules/serve-index/node_modules/debug/src/debug.js",
-    "Webpack5/code/blog/node_modules/serve-index/node_modules/debug/src/browser.js",
-    "Webpack5/code/blog/node_modules/serve-index/node_modules/debug/src",
     "Webpack5/code/blog/node_modules/unpipe/README.md",
     "Webpack5/code/blog/node_modules/unpipe/HISTORY.md",
     "Webpack5/code/blog/node_modules/node-forge/README.md",
@@ -238,14 +246,6 @@
     "Webpack5/code/blog/node_modules/serve-index/node_modules/setprototypeof/README.md",
     "Webpack5/code/blog/node_modules/serve-index/node_modules/ms/readme.md",
     "Webpack5/code/blog/node_modules/serve-index/node_modules/inherits/README.md",
-    "Webpack5/code/blog/node_modules/serve-index/node_modules/ms/license.md",
-    "Webpack5/code/blog/node_modules/wrap-ansi/node_modules/ansi-regex/readme.md",
-    "Webpack5/code/blog/node_modules/serve-index/node_modules/debug/CHANGELOG.md",
-    "Webpack5/code/blog/node_modules/body-parser/node_modules/debug/README.md",
-    "Webpack5/code/blog/node_modules/wrap-ansi-cjs/node_modules/color-convert/CHANGELOG.md",
-    "Webpack5/code/blog/node_modules/body-parser/node_modules/bytes/History.md",
-    "Webpack5/code/blog/node_modules/send/node_modules/debug/README.md",
-    "Webpack5/code/blog/node_modules/raw-body/node_modules/bytes/Readme.md",
     "Webpack5/code/blog/node_modules/serve-index/public/icons/page_white_swoosh.png",
     "Webpack5/code/blog/node_modules/serve-index/public/icons/page_world.png",
     "Webpack5/code/blog/node_modules/serve-index/public/icons/page_word.png",

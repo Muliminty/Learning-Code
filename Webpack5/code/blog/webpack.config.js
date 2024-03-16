@@ -7,7 +7,8 @@ module.exports = {
   devtool: 'inline-source-map', // 指定source map的类型 也就是将 source map 直接包含在输出的 bundle 文件中，而不是单独生成一个 .map 文件。
   entry: './src/index.js', // 指定Webpack的入口文件
   output: {
-    filename: 'dist.js', // 指定Webpack输出的文件名
+    filename: 'dist.js',
+    // filename: '[name].[contenthash].js', // 指定Webpack输出的文件名 [name] 代表入口文件的名称 [contenthash] 代表文件内容的 hash 值
     path: path.resolve(__dirname, 'dist') // 指定Webpack输出的目录路径
   },
   // 其他配置项
