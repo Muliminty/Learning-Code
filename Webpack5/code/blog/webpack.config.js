@@ -1,6 +1,6 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-
+const TerserPlugin = require('terser-webpack-plugin'); // 引入压缩插件
 
 module.exports = {
   mode: 'development', // 指定Webpack的工作模式是开发模式
@@ -9,6 +9,11 @@ module.exports = {
   output: {
     filename: 'dist.js', // 指定Webpack输出的文件名
     path: path.resolve(__dirname, 'dist') // 指定Webpack输出的目录路径
+  },
+  // 其他配置项
+  optimization: { // 优化项
+    minimize: true, // 是否开启代码压缩
+    minimizer: [new TerserPlugin()], // 使用 TerserPlugin 压缩代码
   },
   plugins: [
     new HtmlWebpackPlugin({

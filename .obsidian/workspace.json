@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webpack5/document/插件/Babel.md",
+                "file": "Webpack5/document/插件/TerserPlugin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "right": {
     "id": "7e1eaf5aa558b397",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Webpack5/document/插件/Babel.md"
+                "file": "Webpack5/document/插件/TerserPlugin.md"
               }
             }
           },
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webpack5/document/插件/Babel.md",
+                "file": "Webpack5/document/插件/TerserPlugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Webpack5/document/插件/Babel.md",
+                "file": "Webpack5/document/插件/TerserPlugin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,6 +210,9 @@
   },
   "active": "459656bf6c5eabce",
   "lastOpenFiles": [
+    "Webpack5/code/blog/dist/dist.js.LICENSE.txt",
+    "Webpack5/document/插件/Babel.md",
+    "Webpack5/document/插件/TerserPlugin.md",
     "Webpack5/code/blog/node_modules/@babel/plugin-syntax-json-strings/lib/index.js",
     "Webpack5/code/blog/node_modules/@babel/plugin-syntax-json-strings/lib",
     "Webpack5/code/blog/node_modules/@babel/plugin-transform-reserved-words/lib/index.js.map",
@@ -221,7 +223,6 @@
     "Webpack5/code/blog/node_modules/@babel/plugin-transform-regenerator/lib",
     "Webpack5/code/blog/node_modules/@babel/plugin-transform-property-literals/lib/index.js.map",
     "Webpack5/code/blog/node_modules/@babel/plugin-transform-property-literals/lib/index.js",
-    "Webpack5/code/blog/node_modules/@babel/plugin-transform-property-literals/lib",
     "Webpack5/code/blog/node_modules/@babel/preset-env/node_modules/semver/README.md",
     "Webpack5/code/blog/node_modules/babel-plugin-polyfill-corejs2/node_modules/semver/README.md",
     "Webpack5/code/blog/node_modules/babel-loader/node_modules/ajv-keywords/README.md",
@@ -245,8 +246,6 @@
     "Webpack5/code/blog/node_modules/json5/README.md",
     "Webpack5/code/blog/node_modules/@babel/parser/README.md",
     "Webpack5/code/blog/node_modules/chalk/readme.md",
-    "Webpack5/code/blog/node_modules/@babel/helpers/README.md",
-    "Webpack5/code/blog/node_modules/@babel/plugin-proposal-private-property-in-object/README.md",
     "Webpack5/code/blog/node_modules/renderkid/docs/images/usage.png",
     "Webpack5/code/blog/node_modules/renderkid/docs/images/display.png",
     "Webpack5/code/blog/node_modules/renderkid/docs/images/bullets-1.png",
