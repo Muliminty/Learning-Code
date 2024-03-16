@@ -1,6 +1,7 @@
 import { getBlogPosts } from "./data";
 import "./style.css";
 import testImage from "./assets/images/testImage.png";
+import { printTime } from '@utils/index';
 const blogPosts = getBlogPosts();
 const ul = document.createElement("ul");
 blogPosts.forEach((post) => {
@@ -12,3 +13,4 @@ const textImage = document.createElement("img");
 textImage.src = testImage;
 document.body.appendChild(textImage);
 document.body.appendChild(ul);
+printTime()

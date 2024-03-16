@@ -28,6 +28,12 @@ module.exports = {
       filename: 'index.html', // 指定生成的 HTML 文件名
     }),
   ],
+  resolve: {// 配置Webpack如何寻找模块所对应的文件
+    alias: {
+      '@utils': path.resolve(__dirname, 'src/utils'),// 配置别名
+      '@components': path.resolve(__dirname, 'src/components'),
+    },
+  },
   module: { // 配置Webpack的模块处理规则
     rules: [
       {
